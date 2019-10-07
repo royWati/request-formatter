@@ -1,0 +1,1 @@
+{"processingCode":"310000","currencyCode":"404","mtiRequest":"0200","requestFields":[{"requestName":"accountNumber","field":2},{"requestName":"transactionId","field":11}],"sharingFields":[{"dataField":2,"destinationField":102}],"fixedFields":[{"fieldId":4,"value":"0"}],"responseFields":[{"responseName":"status","field":39},{"responseName":"transactionId","field":11}]}

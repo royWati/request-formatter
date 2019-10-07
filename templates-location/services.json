@@ -1,0 +1,1 @@
+[{"serviceName":"mpesa-checkout","serverUrl":"http://localhost:7800/pg/onlinecheckout","templateType":"json"},{"serviceName":"mpesa-checkout-1","serverUrl":"http://localhost:7800/pg/onlinecheckout","templateType":"json"}]
