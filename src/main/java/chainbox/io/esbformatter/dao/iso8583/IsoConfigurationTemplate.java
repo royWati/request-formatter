@@ -12,7 +12,6 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 public class IsoConfigurationTemplate {
-
     private String processingCode;
     private String currencyCode;
     private String mtiRequest;
